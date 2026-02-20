@@ -48,7 +48,7 @@ Objetivo:
 Gerar um protótipo funcional, visualmente agradável e envolvente, que transmita leveza e simplicidade, com foco em iniciantes em organização financeira. Incluir microinterações e animações sutis para reforçar a experiência dentro do conceito de Vibe Coding.
 ```
 #
-Resultado final no Lovable: https://app-financa-carolinarlima.lovable.app/
+## Resultado final no Lovable: https://app-financa-carolinarlima.lovable.app/
 #
 ![Animação](https://github.com/user-attachments/assets/04f478ab-4d27-4fff-b3b2-18171ed04393)
 
@@ -102,4 +102,21 @@ O objetivo do **Finança Fácil** é tornar a gestão financeira acessível e de
 - Aprendi a criar **prompts mais precisos e refinados**, o que impacta diretamente na qualidade do resultado.  
 - Entendi a importância de especificar os detalhes do que desejo, para que a IA consiga entregar exatamente o que foi imaginado.  
 - Descobri que conversar com IAs é um processo iterativo: quanto mais claro e detalhado o prompt, melhor o resultado.  
-- Ganhei experiência em como alinhar expectativas e aproveitar ao máximo as ferramentas de IA no desenvolvimento de aplicações.  
+- Ganhei experiência em como alinhar expectativas e aproveitar ao máximo as ferramentas de IA no desenvolvimento de aplicações.
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinarlima/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carolinarlima)
+#
+Desenvolvida por **Carolina Lima**. <br>
+Projeto proposto pelo **DIO** no **Bootcamp Caixa - Inteligência Artificial na Prática**
+<br>
+![8e3f99ec-9831-43d7-8b68-f25c8a2d570f](https://github.com/user-attachments/assets/f352e0ed-c679-4164-b791-d6fbd42befcd)
+<br>
+
+
+---
+⭐️ *Se este projeto te ajudou a entender melhor sobre ativos locais e semântica, deixe uma estrela!*

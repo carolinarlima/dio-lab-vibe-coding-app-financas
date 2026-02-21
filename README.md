@@ -114,6 +114,7 @@ O objetivo do **Finança Fácil** é tornar a gestão financeira acessível e de
 Desenvolvido por **Carolina Lima**. <br>
 Projeto proposto pela **DIO** no **Bootcamp Caixa - Inteligência Artificial na Prática**
 <br>
+![logo](https://github.com/user-attachments/assets/ac5705f9-950a-4c18-a4ca-fd1302d4e726)
 ![8e3f99ec-9831-43d7-8b68-f25c8a2d570f](https://github.com/user-attachments/assets/f352e0ed-c679-4164-b791-d6fbd42befcd)
 <br>
 
